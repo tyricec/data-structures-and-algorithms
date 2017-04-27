@@ -6,7 +6,7 @@ Caveat: Not sure how relavent the information provided in this book is. In the f
 
 ## To Do ##
 
-- [] Bubble Sort
+- [x] Bubble Sort
 - [] Insertion Sort
 - [] Binary Search
 - [] Lists
