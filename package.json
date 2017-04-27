@@ -1,0 +1,30 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "This repository contains implementations of algorithms and data structures described in the book *Data Structures in C++ using the Standard Template Library*. I used this book in my college course *Data Structures* and was curious to see if I can redo some of the algorithms and structures in JS.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-jest": "^19.0.1",
+    "jest": "^19.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyricec/data-structures-and-algorithms.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "algorithms"
+  ],
+  "author": "Tyrice Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyricec/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/tyricec/data-structures-and-algorithms#readme"
+}
