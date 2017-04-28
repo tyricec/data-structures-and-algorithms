@@ -7,7 +7,7 @@ Caveat: Not sure how relavent the information provided in this book is. In the f
 ## To Do ##
 
 - [x] Bubble Sort
-- [] Insertion Sort
+- [x] Insertion Sort
 - [] Selection Sort
 - [] Merge Sort
 - [] Binary Search
