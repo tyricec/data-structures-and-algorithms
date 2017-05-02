@@ -8,8 +8,8 @@ Caveat: Not sure how relavent the information provided in this book is. In the f
 
 - [x] Bubble Sort
 - [x] Insertion Sort
-- [] Selection Sort
-- [] Merge Sort
+- [x] Selection Sort
+- [x] Merge Sort
 - [] Binary Search
 - [] Lists
 - [] Binary Tree
