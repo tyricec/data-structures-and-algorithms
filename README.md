@@ -8,9 +8,9 @@ Caveat: Not sure how relavent the information provided in this book is. In the f
 
 - [x] Bubble Sort
 - [x] Insertion Sort
-- [] Selection Sort
-- [] Merge Sort
-- [] Binary Search
+- [x] Selection Sort
+- [x] Merge Sort
+- [x] Binary Search
 - [] Lists
 - [] Binary Tree
 - [] Map
